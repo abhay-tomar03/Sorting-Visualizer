@@ -9,7 +9,8 @@ A JavaScript web application for visualizing various sorting algorithms. Built f
 - [Heap Sort](https://en.wikipedia.org/wiki/Heapsort)
 - [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
 
-![sorting_process](https://user-images.githubusercontent.com/55011564/125393471-a1f23680-e3c5-11eb-887e-0e908b0656b1.png)
+![sorting-visualizer](https://user-images.githubusercontent.com/75438874/189711642-85ee09ed-e1a1-4586-9d03-fe7272b3980e.png)
+
 
 ## How to use
 
